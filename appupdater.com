@@ -1,3 +1,3 @@
 {"versionCode": "1.0",
  "url": "https://www.dropmb.com/sample",
- "Message": "PRIVATE VPN \n\n Application Updater Test 🙂 \n\n ✔️ Fixed Bugs \n ✔️ Support All Version \n ✔️ New UI \n ✔️ New Payload Setup.... \n\n\n By: Fixerapp Admin"}
+ "Message": "PRIVATE VPN\n\nApplication Updater Test 🙂 \n\n ✔️ Fixed Bugs \n ✔️ Support All Version \n ✔️ New UI \n ✔️ New Payload Setup.... \n\n\n By: Fixerapp Admin"}
